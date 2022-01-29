@@ -1,0 +1,92 @@
+*
+		{
+			padding: 0;
+			margin: 0;
+		}
+
+		body
+		{
+			font-size:20px;
+			background-color: #CCE4F7;
+		}
+		#container
+			{
+				width:700px;
+				height:1350px;
+				border:1px solid black;
+				margin-left:auto;
+				margin-right:auto;
+				background-color:white ;
+				padding:10px;
+			}
+
+		
+		#header{
+
+			width: 700px;
+			height:300px;
+			background:url("images/thien-nhien-dep-4.jpg");
+
+		
+
+
+		}
+
+		#header h3,h5{
+			color:#fff;
+			text-align:right;
+			padding-right:5px;
+			margin-bottom:10px;
+		}
+		
+		#content
+		{
+			width:490px;
+			height:1000px;
+			margin-top:15px;
+			float:left;
+			padding:10px;
+			background-color:#4AFF94;
+       }
+
+		#content p
+		{
+			font-size:16px;
+			margin-top: 10px;
+		}
+		#heading2
+		{
+			margin-top: 15px;
+		}
+		#sidebar
+		{
+			width:185px;
+			height:1020px;
+			overflow:hidden;
+			float:right;
+			margin-top:15px;
+			background-color: #33B96D;
+			
+		}
+		#sidebar ul li
+		{
+			color:#fff;
+			padding-left: 10px;
+			border-bottom:1px solid #fff;
+			margin-bottom: 5px;
+		}
+	
+		#sidebar ul li:hover
+		{
+			background-color: #008E00;
+
+		}
+		#sidebar ul li a
+		{
+			color:#fff;
+			text-decoration:none;
+		}
+			#sidebar ul
+		{
+			margin-top:15px;
+		}
